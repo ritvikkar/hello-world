@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ addRecords()
+comment1.params=
+comment1.target=void\ readRecords()
+comment2.params=
+comment2.target=void\ clear()
+comment3.params=
+comment3.target=void\ showMenu()
+comment4.params=
+comment4.target=void\ start()
+comment5.params=
+comment5.target=void\ main()
+comment6.params=
+comment6.target=void\ Search()
+comment7.params=
+comment7.target=void\ modify()
+comment8.params=Temp\ Ori
+comment8.target=void\ replace(java.lang.String,\ java.lang.String)
+comment9.params=
+comment9.target=void\ Delete()
+numComments=10
